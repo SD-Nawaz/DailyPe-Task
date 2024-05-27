@@ -1,0 +1,7 @@
+-- create table if not exists users (
+--           id INT PRIMARY KEY AUTO_INCREMENT,
+--           managerId varchar(255),
+--           fullName varchar(255),
+--           mobileNo varchar(10),
+--           panNo varchar(12)
+-- );
